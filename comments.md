@@ -1,1 +1,0 @@
-//Não é aconcenlhavel utilizar sqlite em produção!
